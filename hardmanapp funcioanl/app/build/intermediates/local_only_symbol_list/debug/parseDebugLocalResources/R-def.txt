@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+color md_theme_dark_background
+color md_theme_dark_onBackground
+color md_theme_dark_onPrimary
+color md_theme_dark_onSurface
+color md_theme_dark_primary
+color md_theme_dark_surface
+drawable btn_motivation
+drawable btn_motivation_active
+drawable ic_launcher
+style Theme.SargentoHardman

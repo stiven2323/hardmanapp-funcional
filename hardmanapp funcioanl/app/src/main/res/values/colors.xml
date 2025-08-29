@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand color. Used for buttons and highlights. -->
+    <color name="md_theme_dark_primary">#C59B2A</color>
+    <color name="md_theme_dark_onPrimary">#141414</color>
+    <color name="md_theme_dark_surface">#262B21</color>
+    <color name="md_theme_dark_onSurface">#E7E0C9</color>
+    <color name="md_theme_dark_background">#1E231A</color>
+    <color name="md_theme_dark_onBackground">#E7E0C9</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. We deliberately avoid referring to Material
+         components here because we use Compose for all UI. The theme exists
+         solely to define app‑wide attributes like the launcher icon. -->
+    <style name="Theme.SargentoHardman" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/md_theme_dark_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_dark_onPrimary</item>
+        <item name="colorSurface">@color/md_theme_dark_surface</item>
+        <item name="colorOnSurface">@color/md_theme_dark_onSurface</item>
+        <!-- For Material 3 themes prior to AGP 8.12, colorBackground is not a recognised attribute.  
+             Remove these overrides to avoid a resource linking error.  The default background and onBackground
+             colours defined by Material 3 will be used instead. -->
+        <!-- <item name="android:colorBackground">@color/md_theme_dark_background</item> -->
+        <!-- <item name="android:colorForeground">@color/md_theme_dark_onBackground</item> -->
+    </style>
+</resources>

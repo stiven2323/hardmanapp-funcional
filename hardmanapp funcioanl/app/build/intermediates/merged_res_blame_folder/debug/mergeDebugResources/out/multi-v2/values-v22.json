@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hardman.app-mergeDebugResources-68:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\carop\\.gradle\\caches\\9.0-milestone-1\\transforms\\3e1c926b5448f463e1c9f6a36c610d5e\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

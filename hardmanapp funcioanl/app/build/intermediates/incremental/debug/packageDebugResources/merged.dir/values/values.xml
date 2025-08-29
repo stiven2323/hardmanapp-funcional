@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_theme_dark_background">#1E231A</color>
+    <color name="md_theme_dark_onBackground">#E7E0C9</color>
+    <color name="md_theme_dark_onPrimary">#141414</color>
+    <color name="md_theme_dark_onSurface">#E7E0C9</color>
+    <color name="md_theme_dark_primary">#C59B2A</color>
+    <color name="md_theme_dark_surface">#262B21</color>
+    <style name="Theme.SargentoHardman" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/md_theme_dark_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_dark_onPrimary</item>
+        <item name="colorSurface">@color/md_theme_dark_surface</item>
+        <item name="colorOnSurface">@color/md_theme_dark_onSurface</item>
+        
+        
+        
+    </style>
+</resources>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hardman.app-mergeDebugResources-68:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\carop\\.gradle\\caches\\9.0-milestone-1\\transforms\\3e1c926b5448f463e1c9f6a36c610d5e\\transformed\\appcompat-1.6.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.hardman.app-debug-70:/drawable_btn_motivation_active.png.flat",
+        "source": "com.hardman.app-main-72:/drawable/btn_motivation_active.png"
+    },
+    {
+        "merged": "com.hardman.app-debug-70:/drawable_ic_launcher.png.flat",
+        "source": "com.hardman.app-main-72:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.hardman.app-debug-70:/drawable_btn_motivation.png.flat",
+        "source": "com.hardman.app-main-72:/drawable/btn_motivation.png"
+    }
+]
